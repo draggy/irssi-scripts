@@ -12,7 +12,7 @@ $VERSION = "1.0";
 
 my $kickmessage = "No Colours!!!";
 
-my $servertag = "revo";
+my $servertag = "servername";
 
 my @channels = ("#channel1", "#channel2");
 
